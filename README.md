@@ -22,6 +22,9 @@ Jupyter notebook
 
 Python libraries(numpy, pandas, matplotlib, seaborn, statistics, maths and scipy)
 
+# Support
+In case of any clarifications or suggestions with regards to this project email me at ngolua.kinya@gmail.com
+
 # Licenses
 MIT License
 
