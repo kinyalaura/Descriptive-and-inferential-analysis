@@ -1,6 +1,7 @@
 # Descriptive-and-inferential-analysis
 Autolib Hypothesis Testing
-<img> 
+
+![](auto.jpg)
 
 # Description:
 
